@@ -127,3 +127,4 @@ namespace Stealer.Firefox
 		}
 	}
 }
+
