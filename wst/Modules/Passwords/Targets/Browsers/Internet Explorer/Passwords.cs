@@ -212,3 +212,4 @@ namespace Stealer.InternetExplorer
     }
 
 }
+
