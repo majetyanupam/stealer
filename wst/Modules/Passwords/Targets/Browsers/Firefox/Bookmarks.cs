@@ -64,3 +64,4 @@ namespace Stealer.Firefox
 }
 
 
+
