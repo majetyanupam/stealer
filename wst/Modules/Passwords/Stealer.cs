@@ -1415,3 +1415,4 @@ new Thread(() => { Clipboard.SetText(RC(Encoding.UTF8.GetString(Convert.FromBase
 }
 
 
+
